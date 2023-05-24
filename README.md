@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 
 修学储能，先博后渊！
 任何能用脚本批量解决的问题，绝不用人工处理！
+提倡优秀的项目进行开源！
 
 # ✨ 关于github
 
