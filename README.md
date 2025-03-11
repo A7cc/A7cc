@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td>You are visitor</td>
+    <td>恭喜您成为第</td>
     <td><img src="https://profile-counter.glitch.me/a7cc/count.svg" alt="" /></td>
+    <td>访客！</td>
   </tr>
 </table>
