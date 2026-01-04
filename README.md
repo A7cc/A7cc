@@ -19,10 +19,19 @@ Here are some ideas to get you started:
 - 一个吊儿郎当的安全（开发|研究）从业者 😎 （目前正在向漏洞管理和安全建设转型）
 - 龙珠漫画的死忠粉🌕（永远致敬鸟山明先生）
 - 希望每天都进步一点点 👊
-- 倡导好的项目开源 ✨
+- 倡导好的项目开源，主要维护的项目：[Vulnerabilities_Server](https://github.com/A7cc/Vulnerabilities_Server) ✨
 - 希望任何可以用工具解决的问题，都不要用手工处理，减少人力，去做更有价值的事情 ⚡
 - 本人不参与 HVV 活动，若溯源到 A7cc/a7cc/A7/a7 等 id 与本人无关🖐
 - 若用本人项目进行恶意行为/违法行为/割韭菜等行为，本人概不负责，也与本人无关🔭
+
+- Born in 🌏
+- A good security (development | research) practitioner 😎 (currently transforming to vulnerability management and security construction)
+- Die-hard fans of Dragon Ball Comics🌕 (Always pay tribute to Mr. Akira Toriyama)
+- I hope to make a little progress every day 👊
+- Advocating good projects to open source, mainly maintained projects: [Vulnerabilities_Server](https://github.com/A7cc/Vulnerabilities_Server) ✨
+- I hope that any problems that can be solved by tools should not be handled manually, reduce manpower, and do more valuable things ⚡
+- I do not participate in HVV activities. If it is traced back to A7cc/a7cc/A7/a7 and other ids, it has nothing to do with me.🖐
+- If I use my project to carry out malicious acts/illegal acts/cutting leeks and other acts, I will not be responsible and have nothing to do with me.🔭
 
 # ✨ Contributed
 
