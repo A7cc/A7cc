@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 # 📫 Project
 
 主要维护的项目：
-- [Vulnerabilities_Server](https://github.com/A7cc/Vulnerabilities_Server)
-- [server_Tool](https://github.com/A7cc/server_Tool)
+- [Vulnerabilities_Server](https://github.com/A7cc/Vulnerabilities_Server)：一个集合了多种语言的实战化Web靶场
+- [server_Tool](https://github.com/A7cc/server_Tool)：各种服务集成工具，例如：聊天室、文件上传下载
+- [LifeGame](https://github.com/A7cc/LifeGame)：自己写的生活经营类游戏（算是完成小时候的Game dream了）
 
 # ✨ Contributed
 
